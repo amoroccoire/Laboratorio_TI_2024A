@@ -42,7 +42,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'dniProject',
-    'rest_framework',
     'hola_mundo'
 ]   
 
